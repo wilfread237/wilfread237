@@ -53,9 +53,8 @@ CI/CD stack used on client project:
 - Deployment to cloud infrastructure
 
 ## Links
-- Portfolio:
-- LinkedIn:
-- Twitter:
-- Email:
+- LinkedIn:https//:www.linkedin.com/in/wilfreadessomba
+- Email:wilfreadessomba@gmail.com
+- Bento :https//:www.bento.me/wilfreadessomba
 
 ---
