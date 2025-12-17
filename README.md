@@ -6,6 +6,11 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![CI/CD](https://img.shields.io/badge/CI--CD-Automated-blue?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+
 
 
 - Full-stack developer (Node/React/PostgreSQL)
