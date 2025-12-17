@@ -2,14 +2,15 @@
 
 ## Software engineer | Fullstack Developer & Automation Developer | Software architect | Anthousiast of Agronomy & Automation (N8N)
 
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![CI/CD](https://img.shields.io/badge/CI--CD-Automated-blue?style=for-the-badge)
-![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI--CD-Automated-4CAF50?style=flat-square)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
 
 
 
