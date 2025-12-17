@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Wilfread Essomba 👋  
 
-<!--
-**wilfread237/wilfread237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software engineer | Fullstack Developer & Automation Developer | Software architect | Anthousiast of Agronomy & Automation (N8N)
 
-Here are some ideas to get you started:
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![CI/CD](https://img.shields.io/badge/CI--CD-Automated-blue?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Full-stack developer (Node/React/PostgreSQL)
+- CI/CD automation
+- Cloud deployment (Vercel / Docker)
+- System design & scalable architectures
+- Passionate about clean code & SOLID principles
+
+## Current Focus
+- React ecosystem + Redux
+- Tailwind + Motion/GSAP animations
+- Testing (unit + integration)
+- PostgreSQL + Prisma
+- DevOps pipeline
+
+## Featured Projects
+| Project | Tech | Description |
+|--------|------|-------------|
+## Professional Projects (Private)
+I have developed production-grade applications involving:
+- Full CI/CD pipeline via GitHub Actions
+- Unit & integration test suites
+- Cloud deployment strategies
+- Secure backend architecture
+- Database modelling and migrations
+- API versioning and documentation
+Code remains private due to client contract.
+CI/CD stack used on client project:
+- GitHub Actions pipelines
+- Docker build/testing stages
+- Automated testing before merge
+- Deployment to cloud infrastructure
+
+## Links
+- Portfolio:
+- LinkedIn:
+- Twitter:
+- Email:
+
+---
